@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaithanya Ganesh</h1>
-<h3 align="center">A budding developer with experience in app, app and GUI development. </h3>
+<h3 align="center">A budding developer with experience in web and app development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cg2611&label=Profile%20views&color=0e75b6&style=flat" alt="Cg2611" /> </p>
 
