@@ -1,16 +1,32 @@
-## Hi there 👋
+## Currently Learning
+<ul>
+  <li>React Native</li>
+  <li>Web Development</li>
+</ul>
 
-<!--
-**Cg2611/Cg2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I'm Into:
 
-Here are some ideas to get you started:
+<ul>
+  <li>Programming (obviously)</li>
+  <li>Politics </li>
+  <li>Chess</li>
+  <li>Youtube</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats: 
+
+<details open>
+<summary>Streak Stats</summary>
+<div>&nbsp;</div>
+<img src="https://streak-stats.demolab.com?user=Cg2611&theme=tokyonight&hide_border=true&border_radius=40&fire=1A9871" alt="Streak Stats" >
+</details>
+<details open>
+<summary>Language Stats</summary>
+<div>&nbsp;</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cg2611&theme=tokyonight&hide_border=true&border_radius=30" alt="Language Stats">
+</details>
+<details open>
+<summary>Overall Stats</summary>
+<div>&nbsp;</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Cg2611&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30" alt="Overall Stats">
+</details>
