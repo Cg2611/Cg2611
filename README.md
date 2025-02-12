@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cg2611" alt="Cg2611" /></a> </p>
 
 
-- 🌱 I’m currently learning **React Native and Unity**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cg2611](https://github.com/Cg2611)
 
-- 💬 Ask me about **React, JavaScript, Android Dev**
+- 💬 Ask me about **React, JavaScript, App Dev**
 
 - 📧 How to reach me **chaithanyaprojects1309@gmail.com**
 
